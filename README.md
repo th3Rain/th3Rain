@@ -65,4 +65,4 @@ I am a highly skilled DevOps & Cloud Engineer with a strong foundation in cybers
 - **ResearchGate**: [Gabriel Oyeyemi](https://www.researchgate.net/profile/Gabriel-Oyeyemi)
 
 ## 📊 GitHub Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=th3rain&show_icons=true&theme=radical)
