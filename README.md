@@ -47,7 +47,8 @@ I am a highly skilled DevOps & Cloud Engineer with a strong foundation in cybers
   Implemented workflow automation, provided IT support, and maintained system and data security standards.
 
 ## 🏆 Certifications
-- Certified Kubernetes Administrator (CKA) - Linux Foundation (In-view)
+- Google Cloud Associate Cloud Engineer
+- Github Administration
 - ISC2 Certified in Cybersecurity
 - Microsoft Certified DevOps Expert
 - AWS Certified Cloud Practitioner
