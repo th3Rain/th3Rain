@@ -14,7 +14,7 @@ I am a highly skilled DevOps & Cloud Engineer with a strong foundation in cybers
 - **Technical Support**: Advanced troubleshooting and support for Microsoft Azure/Office 365, including escalation management and enhancing customer experience.
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3rain&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3rain&layout=donut)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3rain&layout=donut)](https://github.com/th3rain/github-readme-stats)
 
 ## 🧑‍🎓 Education
